@@ -15,9 +15,9 @@ import InfoIcon from '@material-ui/icons/Info'
 import ExpandLess from '@material-ui/icons/ExpandLess'
 import ExpandMore from '@material-ui/icons/ExpandMore'
 import Done from '@material-ui/icons/Done'
-import SEO from '../components/seo'
-import Image from '../components/image'
-import Layout from '../components/layout'
+import SEO from '../components/Seo'
+import Image from '../components/Image'
+import Layout from '../components/Layout/Layout'
 
 const useStyles = makeStyles(theme => ({
   root: {
