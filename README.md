@@ -9,8 +9,6 @@
 
 This starter includes [Material UI](https://material-ui.com/) boilerplate and configuration files along with the standard Gatsby configuration files. It provides a starting point for developing Gatsby apps with Material UI. 
 
-View the demo app [here](https://material-ui-starter.netlify.com/).
-
 ## Features
 
 - Material UI Framework
@@ -27,7 +25,7 @@ View the demo app [here](https://material-ui-starter.netlify.com/).
 
     ```sh
     # create a new Gatsby site using the Material UI starter
-    gatsby new <project-name> https://github.com/dominicabela/gatsby-starter-material-ui
+    gatsby new <project-name> https://github.com/dantecarlo/Material-UI-Gatsby-Starter-Scratch
     ```
 
 2.  **Start developing.**
